@@ -94,13 +94,13 @@ Through this project, the following concepts were practiced:
 ## Screenshots
 
 ### Network Topology
-![Topology](screenshots/topology.png)
+![Topology](topology.png)
 
 ### Connectivity Validation
-![Ping Test](screenshots/ping_test.png)
+![Ping Test](ping_test.png)
 
 ### Python Automation
-![Python Validation](screenshots/python_validation.png)
+![Python Validation](python_validation.png)
 
 ---
 
